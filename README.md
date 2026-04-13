@@ -2,7 +2,7 @@
 
 **Tool for monitoring online player count in MagicSea Online — the mobile version of the legendary Piratia Online (Tales of Pirates)**
 
-> Download and play: [piratia.online](https://piratia.online)
+> Download and play: [piratia.online](https://piratia.online/en)
 
 ---
 
@@ -66,7 +66,7 @@ Download free: https://piratia.online
 
 ## Links
 
-- **Official website:** [piratia.online](https://piratia.online) — download links for Android and iOS, class guides, game info
+- **Official website:** [piratia.online](https://piratia.online/en) — download links for Android and iOS, class guides, game info
 - Download on **Google Play** and **App Store** as MagicSea Online
 
 ---
