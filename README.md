@@ -60,7 +60,7 @@ Status:         ✓ Online
 Players online: 318
 Checked at:     2026-04-13 14:22:05
 Server is active. Good time to start playing!
-Download free: https://piratia.online
+Download free: https://piratia.online/en
 
 ---
 
